@@ -1,0 +1,1 @@
+workspace = { resolver = "2", members = ["crates/assets_test_inner"] }
